@@ -64,5 +64,5 @@ Being a single item project, board hardware POC has been initially realized on a
 TODO: Schematics
 
 #### RemoteXY support
-Added RemoteXY panel to turn on/off and choose animation and brightness
+Found this wonderful Arduino library https://remotexy.com so I built the minimal GUI with RemoteXY to turn on/off the device, choose animation and LED maximum brightness.
 
