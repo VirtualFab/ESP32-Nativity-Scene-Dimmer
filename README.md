@@ -62,3 +62,7 @@ If the temperature beneath the scene reaches FAN_TEMP_MAX then the fan is starte
 Being a single item project, board hardware POC has been initially realized on a breadboard and then the final circuit has been realized on a prototype PCB board. 
 
 TODO: Schematics
+
+#### RemoteXY support
+Added RemoteXY panel to turn on/off and choose animation and brightness
+
